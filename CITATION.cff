@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pérez Domínguez
+    given-names: Karina Fernanda
+    email: karinaf1427@gmail.com
+title: "metrics_mexico"
+version: 0.1.0
+date-released: 2026-09-13
+abstract: "A curated collection of Mexico-related datasets for data analysis, economic research, and education. Includes population statistics, salary levels, international rankings, government budgets, trade data, stock market data, airport traffic, earthquakes, and environmental indicators from Kaggle sources."
+keywords:
+  - datasets
+  - mexico
+  - mexican data
+  - population
+  - demographics
+  - salaries
+  - minimum wage
+  - economics
+  - government budget
+  - trade
+  - tariffs
+  - stock market
+  - financial data
+  - international rankings
+  - airports
+  - earthquakes
+  - environmental data
+  - data analysis
+  - data science
+  - research
+  - education
+  - kaggle
+license: MIT
+repository-code: "https://github.com/karinaf1427/metrics_mexico"
+type: software
